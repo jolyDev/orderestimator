@@ -1,0 +1,11 @@
+/home/avernygara/dev/flutter/orderestimate/build/linux/x64/debug/bundle/orderestimate
+/home/avernygara/dev/flutter/orderestimate/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/avernygara/dev/flutter/orderestimate/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/avernygara/dev/flutter/orderestimate/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/avernygara/dev/flutter/orderestimate/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/avernygara/dev/flutter/orderestimate/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/avernygara/dev/flutter/orderestimate/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/avernygara/dev/flutter/orderestimate/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/avernygara/dev/flutter/orderestimate/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/avernygara/dev/flutter/orderestimate/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/avernygara/dev/flutter/orderestimate/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
